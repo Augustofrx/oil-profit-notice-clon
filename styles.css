@@ -242,6 +242,10 @@ body {
     cursor: pointer;
 }
 
+.main-container a {
+    text-decoration: none;
+}
+
 .title {
     margin: 8px 14px ;
     font-size: 34px;
